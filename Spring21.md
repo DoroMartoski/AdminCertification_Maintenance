@@ -23,5 +23,9 @@
 
 
 4. Dynamic forms
-5. 
+  * Ability to configure record detail fields and sections inside the Lightning app builder
+  * Migrate fields and sections from a page layout as individual components to an app builder using dynamic forms.
+  * In-app fields created just for dynamic forms provide help guides as you configure fields and sections.
+  * Dynamic forms is Supported on record pages for custom objects only.
+
   
