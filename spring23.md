@@ -38,3 +38,20 @@ Processes containing scheduled actions, custom metadata types & field traversals
 * Email alert
 
 <img width="919" alt="image" src="https://github.com/DoroMartoski/AdminCertification_Maintenance/assets/10240158/8c524630-1252-42f3-a0ed-b3e5938028ba">
+
+
+### Enhance More Object Record Pages with Dynamic Forms
+* make your account, including person account, contact, and opportunity record pages, more robust by configuring them with Dynamic Forms.
+
+#### How
+* open an account, including person account, contact, or opportunity record page. Click the new Fields tab, and place fields anywhere on the page. 
+* **OR** automate the process by migrating your Record Detail component to use Dynamic Forms with the click of a button.
+
+### Enhance Case and Lead Record Pages with Dynamic Forms
+* Make your case and lead record pages more robust by configuring them with Dynamic Forms.
+
+#### How
+* In the Lightning App Builder, open a case or lead record page. Click the new Fields tab, place the Field Section component 
+anywhere on the page, and then drag the fields inside the Field Section
+* **OR** automate the process by migrating your Record Detail component to use Dynamic Forms with the click of a button.
+
